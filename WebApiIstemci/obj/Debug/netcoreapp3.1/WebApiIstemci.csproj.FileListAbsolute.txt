@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Yeni klasör\WebApiIstemci\bin\Debug\netcoreapp3.1\WebApiIstemci.exe
+C:\Users\Lenovo\Desktop\Yeni klasör\WebApiIstemci\obj\Debug\netcoreapp3.1\WebApiIstemci.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Yeni klasör\WebApiIstemci\obj\Debug\netcoreapp3.1\WebApiIstemci.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Yeni klasör\WebApiIstemci\obj\Debug\netcoreapp3.1\WebApiIstemci.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Yeni klasör\WebApiIstemci\bin\Debug\netcoreapp3.1\WebApiIstemci.deps.json
+C:\Users\Lenovo\Desktop\Yeni klasör\WebApiIstemci\bin\Debug\netcoreapp3.1\WebApiIstemci.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Yeni klasör\WebApiIstemci\bin\Debug\netcoreapp3.1\WebApiIstemci.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Yeni klasör\WebApiIstemci\bin\Debug\netcoreapp3.1\WebApiIstemci.dll
+C:\Users\Lenovo\Desktop\Yeni klasör\WebApiIstemci\bin\Debug\netcoreapp3.1\WebApiIstemci.pdb
+C:\Users\Lenovo\Desktop\Yeni klasör\WebApiIstemci\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Lenovo\Desktop\Yeni klasör\WebApiIstemci\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\Yeni klasör\WebApiIstemci\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Lenovo\Desktop\Yeni klasör\WebApiIstemci\obj\Debug\netcoreapp3.1\WebApiIstemci.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Yeni klasör\WebApiIstemci\obj\Debug\netcoreapp3.1\WebApiIstemci.dll
+C:\Users\Lenovo\Desktop\Yeni klasör\WebApiIstemci\obj\Debug\netcoreapp3.1\WebApiIstemci.pdb

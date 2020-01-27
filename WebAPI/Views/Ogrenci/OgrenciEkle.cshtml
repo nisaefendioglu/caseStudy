@@ -1,0 +1,67 @@
+﻿@model WebAPI.Models.ogrenci
+
+@{
+    ViewData["Title"] = "OgrenciEkle";
+}
+
+<h1>OgrenciEkle</h1>
+
+<h4>ogrenci</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="OgrenciEkle">
+            <div class="form-group">
+                <label asp-for="Adi" class="control-label"></label>
+                <input asp-for="Adi" class="form-control" />
+                <span asp-validation-for="Adi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Soyadi" class="control-label"></label>
+                <input asp-for="Soyadi" class="form-control" />
+                <span asp-validation-for="Soyadi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TcNo" class="control-label"></label>
+                <input asp-for="TcNo" class="form-control" />
+                <span asp-validation-for="TcNo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cinsiyeti" class="control-label"></label>
+                <input asp-for="Cinsiyeti" class="form-control" />
+                <span asp-validation-for="Cinsiyeti" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DogumTarihi" class="control-label"></label>
+                <input asp-for="DogumTarihi" class="form-control" />
+                <span asp-validation-for="DogumTarihi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BolumAdi" class="control-label"></label>
+                <input asp-for="BolumAdi" class="form-control" />
+                <span asp-validation-for="BolumAdi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="OkulAdi" class="control-label"></label>
+                <input asp-for="OkulAdi" class="form-control" />
+                <span asp-validation-for="OkulAdi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Sinifi" class="control-label"></label>
+                <input asp-for="Sinifi" class="form-control" />
+                <span asp-validation-for="Sinifi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="OgrenciListele">Öğrenci Listelemeye Geri Dön</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
